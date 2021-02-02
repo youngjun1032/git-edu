@@ -1,4 +1,0 @@
-welcome to git
-second
-clone modified
-test
